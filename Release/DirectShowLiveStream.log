@@ -1,0 +1,6 @@
+﻿  DirectShowLiveStream.cpp
+DirectShowLiveStream.obj : error LNK2001: unresolved external symbol _IID_IMediaControl
+DirectShowLiveStream.obj : error LNK2001: unresolved external symbol _CLSID_FilterGraph
+DirectShowLiveStream.obj : error LNK2001: unresolved external symbol _IID_IGraphBuilder
+DirectShowLiveStream.obj : error LNK2001: unresolved external symbol _IID_IMediaEvent
+C:\Users\chapt\source\repos\DirectShowLiveStream\Release\DirectShowLiveStream.exe : fatal error LNK1120: 4 unresolved externals
